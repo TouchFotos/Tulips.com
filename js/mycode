@@ -97,7 +97,7 @@ async function loadNames() {
   }
   else if(name.includes('jewellery'))
   {
-    document.querySelector('.header').textContent = "JEWELLORY";
+    document.querySelector('.header').textContent = "JEWELLRY";
     console.log("Shoes section")
 
   }
@@ -116,7 +116,7 @@ async function loadNames() {
   
   
   
-  console.log("Wel Come");
+  console.log("Welcome");
   // for(i=8;i<=200;i++)
   // {
     // console.log("products1 "+products1);
